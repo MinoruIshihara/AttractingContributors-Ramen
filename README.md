@@ -10,3 +10,4 @@ Examples:
 
 # List of Ramens
 * Karakara uo(辛辛魚)
+* Shouyu ramen(醤油ラーメン)
